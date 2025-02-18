@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { IBM_Plex_Sans_Thai } from 'next/font/google';
-import Nav from "./components/Home/ืNavbar/Nav";
+import Nav from "./components/Home/Navbar/Nav";
 
 const ibmPlexSansThai = IBM_Plex_Sans_Thai({
   weight: ['400', '500', '600', '700'], // ระบุ weight ที่ต้องการใช้งาน
